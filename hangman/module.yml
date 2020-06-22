@@ -1,0 +1,11 @@
+Overview & Grading: /modules/hangman
+"Lecture: OOP": /problems/objects/lecture
+Oefenen:
+    Implementeer Queue: /problems/objects/queue
+    Implementeer Game of Cards: /problems/objects/cards
+"Implementeer naar keuze:":
+    Classic Hangman: /problems/hangman/classic
+    Evil Hangman (Hacker): /problems/hangman/evil
+Afronding:
+    Code review: /modules/hangman/review
+    Retrospective: /modules/hangman/retrospective

@@ -1,0 +1,6 @@
+name: m7a
+files:
+    required:
+        - queue.py
+        - cardgame.py
+        - hangman.py
