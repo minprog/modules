@@ -5,12 +5,12 @@ Eerste oefening:
 Opdrachten (t/m donderdag):
     Maak je eigen CS50 IDE aan: https://ide.cs50.io/
     Leer over de Command Line: /lectures/shorts/command-line
-    Implementeer Water: /problems/water
-    Implementeer Greedy: /problems/greedy
-    Implementeer Mario: /problems/mario/less
+    Implementeer Water: /problems/cs50/water
+    Implementeer Greedy: /problems/cs50/greedy
+    Implementeer Mario: /problems/cs50/mario/less
 Extra opdrachten:
-    Implementeer Mario (hacker): /problems/mario/more
-    Implementeer Credit (hacker): /problems/credit
+    Implementeer Mario (hacker): /problems/cs50/mario/more
+    Implementeer Credit (hacker): /problems/cs50/credit
 Toetsjes (vrijdag):
     A Variables: /exercises/variables
     C Unscratch: /exercises/unscratch

@@ -1,10 +1,10 @@
 Overzicht en Videocollege: /modules/fifteen
 Opdrachten (t/m donderdag):
-    Find: /problems/find/less
-    Fifteen: /problems/fifteen/less
+    Find: /problems/cs50/find/less
+    Fifteen: /problems/cs50/fifteen/less
 Extra opdrachten:
-    Find (hacker): /problems/find/more
-    Fifteen (hacker): /problems/fifteen/more
+    Find (hacker): /problems/cs50/find/more
+    Fifteen (hacker): /problems/cs50/fifteen/more
 Toetsjes (vrijdag):
     D Arrays: /exercises/arrays
     G Algorithms: /exercises/algorithms
