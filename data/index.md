@@ -51,7 +51,7 @@ In this weeks problems, we will be using jupyter notebook. In order to install j
 
 2. Implement [Climate](/problems/climate)
 
-> Let op! Virus is een extra opdracht geworden, deze vind je vanaf nu onder [extra](/overviews/extra)
+> Let op! Virus is een extra opdracht geworden, deze vind je vanaf nu onder [extra](/modules/extra)
 
 ## How to Submit
 
