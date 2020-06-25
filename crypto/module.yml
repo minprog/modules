@@ -1,13 +1,14 @@
 Overzicht en Videocollege: /modules/crypto
 Opdrachten (t/m donderdag):
-    Initials: /problems/initials-less
+    Initials: /problems/initials/less
     Caesar: /problems/caesar
     Vigenere: /problems/vigenere
 Extra opdrachten:
-    Initials (hacker): /problems/initials-more
+    Initials (hacker): /problems/initials/more
     Crack (hacker): /problems/crack
 Toetsje (vrijdag):
     B Control flow: /exercises/control-flow
     E Loops: /exercises/loops
-Code review (maandag):
-    Instructies: /reviews/crypto
+Afronding:
+    Code review: /modules/crypto/review
+    Retrospective: /modules/crypto/retrospective

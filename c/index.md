@@ -34,7 +34,7 @@ The goal of this exercise is to try out compiling your program, maybe fixing a t
 You'll create an instance of the CS50 IDE, which will be your "code editor" for the weeks coming. The goal is to write a very small program from scratch and learning to test your program using `check50`. (Note that the IDE currently only works in Chrome and Firefox!)
 
 - Login to the [CS50 IDE](https://ide.cs50.io/){:.external} using your GitHub account
-- Learn about using the [Command Line](/shorts/command-line) in the IDE
+- Learn about using the [Command Line](/lectures/shorts/command-line) in the IDE
 - Create a "`module1`" directory in the IDE as by `mkdir ~/module1` and `cd` into it
 - Implement [Water](/problems/water) and immediately submit it when done!
 
@@ -43,7 +43,7 @@ You'll create an instance of the CS50 IDE, which will be your "code editor" for 
 After implementing water, your main task of the week is to implement and submit these two problems:
 
 - [Greedy](/problems/greedy)
-- [Mario](/problems/mario-less)
+- [Mario](/problems/mario/less)
 
 Do not forget to submit your solutions on the problem pages. If `check50` is happy, you should submit them!
 
@@ -55,7 +55,7 @@ If you are quick to finish the previous two problems, and you have ample time le
 
 Solving and submitting the hacker problems in addition to the standard problems may earn you 1 extra point for this module. However, you must submit all problems before the original deadline to be eligible for this point.
 
-- [Mario](/problems/mario-more), the hacker edition, a little bit harder than Mario
+- [Mario](/problems/mario/more), the hacker edition, a little bit harder than Mario
 - [Credit](/problems/credit), a problem that is quite hard to solve
 
 ### 4. Tests

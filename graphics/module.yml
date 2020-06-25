@@ -1,11 +1,12 @@
 Overzicht en Videocollege: /modules/graphics
 Opdrachten (t/m donderdag):
     Implementeer Whodunit: /problems/whodunit
-    Implementeer Filter: /problems/filter-less
+    Implementeer Filter: /problems/filter/less
     Implementeer Recover: /problems/recover
 Extra opdracht:
-    Implementeer Resize: /problems/resize-more
+    Implementeer Resize: /problems/resize/more
 Toetsje (vrijdag):
     F Functions: /exercises/functions
-Code review (vrijdag!):
-    Instructies: /reviews/graphics
+Afronding:
+    Code review: /modules/graphics/review
+    Retrospective: /modules/graphics/retrospective
