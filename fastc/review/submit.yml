@@ -1,0 +1,5 @@
+name: module 1
+files:
+    required:
+        - mario.c
+        - greedy.c
