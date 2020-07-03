@@ -1,2 +1,3 @@
-Overzicht en Videocollege: /modules/scratch
-Implementeer Scratch: /problems/cs50/scratch
+Scratch:
+    Overzicht en Videocollege: /modules/scratch
+    Implementeer Scratch: /problems/cs50/scratch
