@@ -23,8 +23,3 @@ For information on (or help with) this module:
 ## Grading
 
 Your Scratch program will be automatically checked for adherence to the requirements (i.e., using two sprites, three scripts, etc.). Your mentor will also try out your game, artwork or animation and provide some feedback during the next section meeting!
-
-
-## What to Do
-
-Write and submit your first program: [Scratch](/problems/scratch)
