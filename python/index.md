@@ -13,27 +13,3 @@ For information on (or help with) this module:
 
 3. Visit (or e-mail) the course's heads.
 {: start="0"}
-
-
-## What to Do
-
-### 1. Preparations
-
-Watch the lecture on [Python](/lectures/python).
-
-### 2. Sentimental
-
-Implement [Sentimental](/problems/sentimental).
-
-### 3. Bleep
-
-Implement [Bleep](/problems/bleep).
-
-### 4. Code review
-
-[Instructions](/reviews/python)
-
-
-## Reference
-
-- [Python](https://www.youtube.com/watch?v=mgBpcQRDtl0)

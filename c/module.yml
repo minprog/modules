@@ -1,7 +1,6 @@
 Overzicht en Videocollege: /modules/c
 Eerste oefening:
-    Maak een GitHub-account: https://github.com/join
-    Implementeer Hello: https://lab.cs50.io/uva/cs50x/master/problems/hello/
+    Implementeer Hello: /problems/cs50/hello
 Opdrachten (t/m donderdag):
     Maak je eigen CS50 IDE aan: https://ide.cs50.io/
     Leer over de Command Line: /lectures/shorts/command-line
