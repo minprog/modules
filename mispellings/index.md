@@ -2,39 +2,15 @@
 
 In this module, you'll learn about data structures by implementing a spell checker in C.
 
-
 ## Help
 
 For information on (or help with) this module:
 
 1. Attend your mentor's section meeting.
-
 1. Use `help50`, `printf` and `debug50` as needed.
-
 1. Ask questions during office hours using the "Ask" tool on this website.
-
 1. Visit (or e-mail) the course's heads.
 {: start="0"}
-
-
-## What to Do
-
-### 1. Preparation
-
-Watch [Lecture 5](/lectures/data-structures)
-
-### 2. Speller
-
-Implement [Speller](/problems/speller)
-
-### 3. Big Board
-
-If you'd like to benchmark your code against classmates' solutions, upload it to the [Big Board](https://bigboard.quinner.nl/)
-
-### 4. Code review
-
-[Instructions](/reviews/adventure)
-
 
 ## Reference
 

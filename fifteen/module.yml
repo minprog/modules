@@ -1,13 +1,16 @@
-Overzicht en Videocollege: /modules/fifteen
-Opdrachten (t/m donderdag):
+Inleiding: /modules/fifteen
+'Videocollege: Algorithms': /lectures/algorithms
+Opdrachten:
     Find: /problems/cs50/find/less
     Fifteen: /problems/cs50/fifteen/less
-Extra opdrachten:
-    Find (hacker): /problems/cs50/find/more
-    Fifteen (hacker): /problems/cs50/fifteen/more
-Toetsjes (vrijdag):
-    D Arrays: /exercises/arrays
-    G Algorithms: /exercises/algorithms
+Naslag:
+    De belangrijkste algoritmen: /shorts/algorithms
+# Extra opdrachten:
+#     Find (hacker): /problems/cs50/find/more
+#     Fifteen (hacker): /problems/cs50/fifteen/more
+Oefeningen:
+    Arrays: /exercises/arrays
+    Algorithms: /exercises/algorithms
 Afronding:
     Code review: /modules/fifteen/review
     Retrospective: /modules/fifteen/retrospective

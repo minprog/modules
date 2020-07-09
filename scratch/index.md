@@ -7,10 +7,8 @@ In this module, you'll write your first program! You'll do this in Scratch, a fu
 For information on (or help with) this module:
 
 1. Attend your mentor's section meeting.
-
-2. Ask questions during office hours using the "Ask" tool on this website.
-
-3. Visit (or e-mail) the course's heads.
+1. Ask questions during office hours using the "Ask" tool on this website.
+1. Visit (or e-mail) the course's heads.
 {: start="0"}
 
 ## Grading

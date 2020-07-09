@@ -1,14 +1,18 @@
-Overzicht en Videocollege: /modules/crypto
-Opdrachten (t/m donderdag):
+Inleiding: /modules/crypto
+'Videocollege: Arrays': /lectures/arrays
+Opdrachten:
     Initials: /problems/cs50/initials/less
     Caesar: /problems/cs50/caesar
     Vigenere: /problems/cs50/vigenere
-Extra opdrachten:
-    Initials (hacker): /problems/cs50/initials/more
-    Crack (hacker): /problems/cs50/crack
-Toetsje (vrijdag):
-    B Control flow: /exercises/control-flow
-    E Loops: /exercises/loops
+Naslag:
+    Debuggen van je programma's: /shorts/debugging
+    Werken met command-line arguments: /shorts/arguments
+# Extra opdrachten:
+#     Initials (hacker): /problems/cs50/initials/more
+#     Crack (hacker): /problems/cs50/crack
+Oefeningen:
+    Control flow: /exercises/control-flow
+    Loops: /exercises/loops
 Afronding:
     Code review: /modules/crypto/review
     Retrospective: /modules/crypto/retrospective

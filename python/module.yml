@@ -1,6 +1,7 @@
-Overzicht, videocollege en becijfering: /modules/python
-"Lecture: Python": /lectures/cs50/python
-"Short: Python": /lectures/shorts/python
+Inleiding: /modules/python
+Videocolleges:
+'Python basics': /lectures/cs50/python-brian
+'Python versus C (optioneel)': /lectures/cs50/python-david
 Opdrachten:
     Implementeer Sentimental: /problems/cs50/sentimental
     Implementeer Bleep: /problems/cs50/bleep
