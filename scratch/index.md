@@ -2,12 +2,6 @@
 
 In this module, you'll write your first program! You'll do this in Scratch, a fun language that makes a lot of complex things easy to do, like animating pictures on the screen.
 
-## Lecture
-
-![embed](https://www.youtube.com/embed/I5VGl6gPyIY)
-
-[Lecture notes](/lectures/computational-thinking)
-
 ## Help
 
 For information on (or help with) this module:
@@ -18,7 +12,6 @@ For information on (or help with) this module:
 
 3. Visit (or e-mail) the course's heads.
 {: start="0"}
-
 
 ## Grading
 
