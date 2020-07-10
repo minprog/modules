@@ -1,12 +1,17 @@
-Overzicht en Videocollege: /modules/graphics
-Opdrachten (t/m donderdag):
-    Implementeer Whodunit: /problems/cs50/whodunit
-    Implementeer Filter: /problems/cs50/filter/less
-    Implementeer Recover: /problems/cs50/recover
-Extra opdracht:
-    Implementeer Resize: /problems/cs50/resize/more
-Toetsje (vrijdag):
-    F Functions: /exercises/functions
+Inleiding: /modules/graphics
+'Videocollege: Memory': /lectures/memory
+Opdrachten:
+    Whodunit: /problems/cs50/whodunit
+    Filter: /problems/cs50/filter/less
+    Recover: /problems/cs50/recover
+Naslag:
+    Werken met files: /shorts/files
+    Hexadecimale notaties: /shorts/hexadecimal
+    Structures: /shorts/structures
+# Extra opdracht:
+#     Implementeer Resize: /problems/cs50/resize/more
+Oefeningen:
+    Functions: /exercises/functions
 Afronding:
     Code review: /modules/graphics/review
     Retrospective: /modules/graphics/retrospective

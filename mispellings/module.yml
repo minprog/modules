@@ -1,7 +1,7 @@
-Overview & Grading: /modules/mispellings
-"Lecture: Data Structures": /lectures/cs50/data-structures
+Inleiding: /modules/mispellings
+'Videocollege: Data structures': /lectures/data-structures
 Opdracht:
-    Implementeer Speller: /problems/cs50/speller
+    Speller: /problems/cs50/speller
 Afronding:
     Code review: /modules/mispellings/review
     Retrospective: /modules/mispellings/retrospective
