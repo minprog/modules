@@ -8,10 +8,8 @@ In order to keep the task within reasonable limits, for each module we will prov
 
 1.  For this module, you will assess and improve your code along the following four criteria:
 
-    - [Comments](/quality/comments)
-    - [Naming](/quality/naming)
-    - [Indenting code](/quality/indentation)
-    - [Whitespace](/quality/whitespace)
+    - [Formatting](/quality/aspects/formatting)
+    - [Comments](/quality/aspects/comments)
 
     Note that you will only improve and re-submit the "standard" editions of the problems, not the "hacker" editions.
 

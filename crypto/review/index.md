@@ -8,11 +8,10 @@ In order to keep the task within reasonable limits, for each module we will prov
 
 1.  For this module, you will assess and improve your code along the following five criteria:
 
-    - [Nesting](/quality/nesting) (NEW!)
-    - [Comments](/quality/comments)
-    - [Naming](/quality/naming)
-    - [Indenting code](/quality/indentation)
-    - [Whitespace](/quality/whitespace)
+    - [Formatting](/quality/aspects/formatting)
+    - [Comments](/quality/aspects/comments)
+    - [Naming](/quality/aspects/naming) (NEW!)
+    - [Cleanup](/quality/aspects/cleanup) (NEW!)
 
     Note that you will only improve and re-submit the "standard" editions of the problems, not the "hacker" editions.
 
