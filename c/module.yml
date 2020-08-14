@@ -1,10 +1,9 @@
 Inleiding: /modules/c
 'Videocollege: C': /lectures/c
 Eerste oefening:
-    Implementeer Hello: /problems/cs50/hello
+    Hello: /problems/cs50/hello
 Werken met Linux:
-    Maak je eigen CS50 IDE aan: https://ide.cs50.io/
-    Leer over de Command Line: /shorts/command-line
+    Maak je eigen CS50 IDE aan: /shorts/ide
 Opdrachten:
     Water: /problems/cs50/water
     Greedy: /problems/cs50/greedy
