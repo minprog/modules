@@ -2,7 +2,7 @@ Inleiding: /modules/intro
 Scratch:
   'Videocollege: Computational Thinking': /lectures/computational-thinking
   Maak een game in Scratch: /problems/cs50/scratch
-C:
+CS50 IDE:
   'Videocollege: C': /lectures/c
   Maak je eigen CS50 IDE aan: /shorts/ide
   Oefen met Hello: /problems/cs50/hello
