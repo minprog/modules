@@ -1,9 +1,5 @@
 Inleiding: /modules/c
 'Videocollege: C': /lectures/c
-Voorbereidingen:
-    Maak je eigen CS50 IDE aan: /shorts/ide
-    Oefen met Hello: /problems/cs50/hello
-    Oefen met Water: /problems/cs50/water
 Opdrachten:
     Greedy: /problems/cs50/greedy
     Mario: /problems/cs50/mario/less
