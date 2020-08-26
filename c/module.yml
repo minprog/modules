@@ -1,7 +1,7 @@
 Inleiding: /modules/c
 'Videocollege: C': /lectures/c
-'Lees over de Problem Solving Steps': /steps
 Opdrachten:
+    'Lees over de Problem Solving Steps': /steps
     Greedy: /problems/cs50/greedy
     Mario: /problems/cs50/mario/less
 Extra opdracht:
