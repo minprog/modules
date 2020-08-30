@@ -1,5 +1,8 @@
 # Hardware
 
+> Je antwoorden op de vragen hieronder kun je inleveren door onderaan op de knop "Submit voor grading" te drukken. Ze worden beoordeeld op diepgang, dus in hoeverre er een zinvol antwoord wordt gegeven met een duidelijke onderbouwing. Laat daarom ook weten als je voor het antwoord andere bronnen of tools hebt gebruikt dan het videocollege hieronder.
+{:.bg-light}
+
 Let's dive into hardware a bit more. David explains about bits and bytes, and explains how computers generally work. After that, we've got a couple of questions for you!
 
 ![embed](https://www.youtube.com/embed/6mbFO0ZLMW8)
