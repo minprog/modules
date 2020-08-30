@@ -1,18 +1,17 @@
 Inleiding: /modules/c
 'Videocollege: C': /lectures/c
 Werken met de CS50 IDE:
-  'Videocollege: C': /lectures/c
   Maak je eigen CS50 IDE aan: /shorts/ide
   Schrijf het programma Hello: /problems/cs50/hello
   Schrijf het programma Water: /problems/cs50/water
 Opdrachten:
-    'Lees over de Problem Solving Steps': /steps
-    Greedy: /problems/cs50/greedy
-    Mario: /problems/cs50/mario/less
+  'Lees over de Problem Solving Steps': /steps
+  Greedy: /problems/cs50/greedy
+  Mario: /problems/cs50/mario/less
 Extra opdracht:
-    Credit: /problems/cs50/credit
+  Credit: /problems/cs50/credit
 Afronding opdrachten:
-    Code review: /modules/c/review
-    Retrospective: /modules/c/retrospective
+  Code review: /modules/c/review
+  Retrospective: /modules/c/retrospective
 Oefeningen:
-    Control Flow: /exercises/control-flow
+  Control Flow: /exercises/control-flow
