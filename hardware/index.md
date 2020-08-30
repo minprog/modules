@@ -4,7 +4,8 @@ Let's dive into hardware a bit more. David explains about bits and bytes, and ex
 
 ![embed](https://www.youtube.com/embed/6mbFO0ZLMW8)
 
-[Open in CS50 video player](https://cs50.harvard.edu/ap/2021/curriculum/technology/weeks/hardware/)
+- [Open in CS50 video player](https://cs50.harvard.edu/ap/2021/curriculum/technology/weeks/hardware/)
+- [Open lecture notes](https://cs50.harvard.edu/technology/2017/weeks/hardware/)
 
 ## Questions
 
