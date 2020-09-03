@@ -11,7 +11,7 @@ In order to keep the task within reasonable limits, for each module we will prov
 
 0.  You will only review the mandatory assignments for this module. The extra assignments will not be considered.
 
-1.  For this module, you will assess and improve your code along the following aspects:
+1.  For this module, you will assess and improve your code along the following aspects. Take your time to fully read and grasp the descriptions there before you contact your partner.
 
     - [Formatting](/quality/aspects/formatting)
     - [Comments](/quality/aspects/comments)
