@@ -1,4 +1,4 @@
-name: module 1
+name: module 1f
 files:
     required:
         - mario.c
