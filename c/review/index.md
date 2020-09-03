@@ -33,5 +33,5 @@ Below, you will submit improved versions of your programs. In addition, you are 
 Which student(s) contributed to reviewing your code?
 <input name="form[reviewers]" type="text" required>
 
-What changes did you make to your code in response to the reviews and feedback that you received and how does this relate to the feedback that you got from the review?
+What changes did you make to your code in response to the reviews, and why?
 <textarea name="form[changes]" rows="8" required></textarea>
