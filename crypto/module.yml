@@ -1,7 +1,8 @@
 Inleiding: /modules/crypto
 'Videocollege: Arrays': /lectures/arrays
-Opdrachten:
+'Intro opdracht':
     Initials: /problems/cs50/initials/less
+Opdrachten:
     Caesar: /problems/cs50/caesar
     Vigenere: /problems/cs50/vigenere
 Naslag:
@@ -11,7 +12,6 @@ Extra opdracht:
 #     Initials (hacker): /problems/cs50/initials/more
     Crack: /problems/cs50/crack
 Oefeningen:
-    Control flow: /exercises/control-flow
     Loops: /exercises/loops
 Afronding:
     Code review: /modules/crypto/review
