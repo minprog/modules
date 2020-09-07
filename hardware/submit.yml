@@ -1,5 +1,5 @@
 name: hardware
-# form: true
+form: true
 # files:
 #     required:
 #         - mario.c
