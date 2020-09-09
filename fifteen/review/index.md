@@ -17,9 +17,13 @@ In order to keep the task within reasonable limits, for each module we will prov
 
 2.  Before you start, don't forget to use `style50` to automatically suggest corrections for indentation and whitespace! However, `style50` is a very simple tool, so do not depend on it too much. And feel free to ignore the suggestions if you feel your code's layout is more consistent like it is.
 
-3.  Then, you should find a partner to do code reviews with. You will **sit together** behind your computer, and they will review you code on the criteria above. They will think aloud and ask you what they do not understand, and tell you what advice they have. Make notes.
+3.  Then, you should find your assigned partner to do code reviews with. You will **sit together** behind your computer or using screen sharing, and your partner will review your code on the criteria above. It is absolutely best if your partner can control your computer to browse through your code.
 
-4.  Finally, **improve your programs** by considering the feedback that you got in the review. Don't forget to re-read the criteria explanations once more!
+4.  Your partner will think aloud and ask questions about what they do not understand. Feel free to explain your code, but do focus on **listening**. Your partner can also provide advice, but you can decide for yourself what to do with that. Take notes.
+
+5.  Now your partner will share their computer and you can browse through their code, ask questions and provide advice.
+
+6.  Finally, take an hour or so to **improve your programs** by considering the feedback that you got in the review. Don't forget to re-read the explanations of the aspects once more!
 
 ## What to submit
 
@@ -28,5 +32,8 @@ Below, you will submit improved versions of your programs. In addition, you are 
 Which student(s) contributed to reviewing your code?
 <input name="form[reviewers]" type="text" required>
 
-What changes did you make to your code in response to the reviews and feedback that you received?
+What changes did you make to your code in response to the reviews, and why?
 <textarea name="form[changes]" rows="8" required></textarea>
+
+What did you **not** change in response to the reviews, and why?
+<textarea name="form[not_changed]" rows="3" required></textarea>

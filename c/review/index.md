@@ -19,7 +19,7 @@ In order to keep the task within reasonable limits, for each module we will prov
 
 2.  Before you start, don't forget to use `style50` to automatically suggest corrections for indentation and whitespace! However, `style50` is a very simple tool, so do not depend on it too much. And feel free to ignore the suggestions if you feel your code's layout is more consistent like it is.
 
-3.  Then, you should find a partner to do code reviews with. You will **sit together** behind your computer or using screen sharing, and your partner will review your code on the criteria above. It is absolutely best if your partner can control your computer to browse through your code.
+3.  Then, you should find your assigned partner to do code reviews with. You will **sit together** behind your computer or using screen sharing, and your partner will review your code on the criteria above. It is absolutely best if your partner can control your computer to browse through your code.
 
 4.  Your partner will think aloud and ask questions about what they do not understand. Feel free to explain your code, but do focus on **listening**. Your partner can also provide advice, but you can decide for yourself what to do with that. Take notes.
 
