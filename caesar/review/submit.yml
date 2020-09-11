@@ -1,4 +1,4 @@
-name: caesar
+name: caesar2
 files:
     required:
         - initials.c
