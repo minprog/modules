@@ -19,12 +19,12 @@ The form below is your task for this final step in the current review cycle. Aft
 
 For this module you reviewed your code using the following aspects:
 
-- [Loops](/quality/loops) (NEW!)
-- [Nesting](/quality/nesting)
-- [Comments](/quality/comments)
-- [Naming](/quality/naming)
-- [Indenting code](/quality/indentation)
-- [Whitespace](/quality/whitespace)
+  - [Formatting](/quality/aspects/formatting)
+  - [Comments](/quality/aspects/comments)
+  - [Naming](/quality/aspects/naming)
+  - [Cleanup](/quality/aspects/cleanup)
+  - [Nesting](/quality/aspects/nesting) (NEW!)
+  - [Loops](/quality/aspects/loops) (NEW!)
 
 Your mentor has provided you with feedback---you can find it on the [Submissions](/submissions) page.
 
