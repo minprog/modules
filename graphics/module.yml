@@ -1,7 +1,8 @@
 Inleiding: /modules/graphics
 'Videocollege: Memory': /lectures/memory
-Opdrachten:
+Inleidende opdracht:
     Whodunit: /problems/cs50/whodunit
+Opdrachten:
     Filter: /problems/cs50/filter/less
     Recover: /problems/cs50/recover
 Naslag:
