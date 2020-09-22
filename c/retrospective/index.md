@@ -48,6 +48,6 @@ What would you like to improve for the programs in the next module, given what y
 
 ## Question 4
 
-If anything, what isn't completely clear from the feedback that your mentor provided on your submitted programs? You mentor will be able to read your answer.
+If anything, what isn't completely clear from the feedback that your mentor provided on your submitted programs? Your mentor will be able to read your answer.
 
 <textarea name="form[q4]" rows="4"></textarea>
