@@ -1,6 +1,5 @@
 name: data
 files:
     required:
-        - analysis.pdf
         - bleep.py
         - climate.ipynb
