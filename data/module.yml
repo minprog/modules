@@ -1,6 +1,5 @@
 Inleiding: /modules/data
-Videocollege:
-    'Python': /lectures/python-david
+'Videocollege: Python': /lectures/python-david
 Voorbereiding:
     Installeer Jupyter Notebooks: install
 Opdrachten:
