@@ -6,8 +6,8 @@ Alright, here we go again! In this week's problems, we will be using a system ca
 
 Log into <https://ide.cs50.io/> and execute the below in a terminal window.
 
-    mkdir ~/workspace/module5/
-    cd ~/workspace/module5/
+    mkdir ~/module5/
+    cd ~/module5/
 
 Then install Jupyter in your IDE using our special script:
 
