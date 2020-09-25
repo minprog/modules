@@ -1,5 +1,8 @@
-Introduction: /modules/data
-"Implement:":
-    Climate: /problems/climate
-"Implement":
-    Virus: /problems/virus
+Inleiding: /modules/data
+Videocollege:
+    'Python': /lectures/python-david
+Voorbereiding:
+    Installeer Jupyter Notebooks: install
+Opdrachten:
+    Implementeer Bleep: /problems/cs50/bleep
+    Implementeer Climate: /problems/climate
