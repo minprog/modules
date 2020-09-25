@@ -11,7 +11,7 @@ Log into <https://ide.cs50.io/> and execute the below in a terminal window.
 
 Then install Jupyter in your IDE using our special script:
 
-    wget https://progik.mprog.nl/modules/data/install/install_jupyter.sh
+    wget https://progik.mprog.nl/course/modules/data/install/install_jupyter_38.sh
     bash install_jupyter.sh
     rm install_jupyter.sh
 
