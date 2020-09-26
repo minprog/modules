@@ -15,19 +15,6 @@ For information on (or help with) this module:
 {: start="0"}
 
 
-## What to Do
-
-### 1. Adventure
-
-Implement either of:
-
-- [Adventure](/problems/adventure-less)
-- [Adventure, Hacker edition](/problems/adventure-more)
-
-### 2. Code review
-
-[Instructions](/reviews/adventure)
-
 ## Reference
 
 - [Dictionaries reference](https://docs.python.org/3/library/stdtypes.html#typesmapping)
