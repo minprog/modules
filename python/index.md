@@ -1,6 +1,6 @@
 # Python
 
-In this module, you'll learn about a new programming language called Python. It's used for things like conducting science as well as publishing interactive websites.
+In this module, you'll learn about a new programming language called Python. It's used for things like conducting science as well as publishing interactive websites, and so much more!
 
 ## Help
 
