@@ -2,4 +2,3 @@ name: module 5
 files:
     required:
         - dictionary.c
-        - dictionary.h
