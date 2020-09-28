@@ -1,4 +1,4 @@
-name: data
+name: genetics
 files:
     required:
         - bleep.py
