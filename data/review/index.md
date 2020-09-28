@@ -8,13 +8,13 @@ In order to keep the task within reasonable limits, for each module we will prov
 
 1.  For this module, you will assess and improve your code along the following seven criteria:
 
-    - [Formatting](/quality/aspects/formatting)
-    - [Comments](/quality/aspects/comments)
-    - [Naming](/quality/aspects/naming)
-    - [Cleanup](/quality/aspects/cleanup)
-    - [Nesting](/quality/aspects/nesting)
-    - [Loops](/quality/aspects/loops)
-    - [Scope](/quality/aspects/scope) (NEW!)
+    - [Formatting](/quality/aspects/python/formatting)
+    - [Comments](/quality/aspects/python/comments)
+    - [Naming](/quality/aspects/python/naming)
+    - [Cleanup](/quality/aspects/python/cleanup)
+    - [Nesting](/quality/aspects/python/nesting)
+    - [Loops](/quality/aspects/python/loops)
+    - [Scope](/quality/aspects/python/scope) (NEW!)
 
 2.  Before you start, don't forget to use `style50` to automatically suggest corrections for indentation and whitespace! However, `style50` is a very simple tool, so do not depend on it too much. And feel free to ignore the suggestions if you feel your code's layout is more consistent like it is.
 
