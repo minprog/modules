@@ -19,13 +19,13 @@ The form below is your task for this final step in the current review cycle. Aft
 
 For this module you reviewed your code using the following aspects:
 
-- [Formatting](/quality/aspects/formatting)
-- [Comments](/quality/aspects/comments)
-- [Naming](/quality/aspects/naming)
-- [Cleanup](/quality/aspects/cleanup)
-- [Nesting](/quality/aspects/nesting)
-- [Loops](/quality/aspects/loops)
-- [Scope](/quality/aspects/scope) (NEW!)
+- [Formatting](/quality/aspects/python/formatting)
+- [Comments](/quality/aspects/python/comments)
+- [Naming](/quality/aspects/python/naming)
+- [Cleanup](/quality/aspects/python/cleanup)
+- [Nesting](/quality/aspects/python/nesting)
+- [Loops](/quality/aspects/python/loops)
+- [Scope](/quality/aspects/python/scope) (NEW!)
 
 Your mentor has provided you with feedback---you can find it on the [Submissions](/submissions) page.
 
