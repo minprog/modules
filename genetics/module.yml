@@ -1,4 +1,6 @@
 Inleiding: .
+Theorie:
+    Leer over list comprehensions: /theory/comprehensions
 Opdrachten:
     Implementeer Virus: /problems/virus
     Implementeer DNA: /problems/cs50/dna
