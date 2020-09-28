@@ -1,0 +1,5 @@
+name: data
+files:
+    required:
+        - bleep.py
+        - climate.ipynb
