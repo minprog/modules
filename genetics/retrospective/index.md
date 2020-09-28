@@ -1,4 +1,4 @@
-# Retrospective: Data
+# Retrospective: Genetics
 
 > Warning: the retrospective is linked to the formal **feedback** that you receive from the staff. Wait until feedback is published (it may take a while!) and then complete the retrospective below.
 {:.bg-warning}

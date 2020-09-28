@@ -1,4 +1,4 @@
-# Code review: Graphics
+# Code review: Data
 
 Learning to assess your own code, and finding ways to improve it, is an important part of learning to program. For each module, you will do a code review with one or more other students. Here, you will give each other feedback and advice on improving your code.
 
