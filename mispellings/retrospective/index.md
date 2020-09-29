@@ -1,4 +1,4 @@
-# Retrospect: C
+# Retrospect: Mispellings
 
 Het feedbackproces in deze cursus gaat over de kwaliteit van de ingeleverde code. Dit proces bestaat uit een heel aantal stappen, waarmee je kunt leren begrijpen wat deze kwaliteit precies inhoudt, wat voor invloed je er op hebt en hoe je deze zelf kunt beoordelen.
 
