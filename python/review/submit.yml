@@ -1,6 +1,6 @@
 name: python
 files:
     required:
-        - greedy.py
+        - mario.py
         - readability.py
         - dna.py
