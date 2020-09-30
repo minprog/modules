@@ -1,52 +1,60 @@
-# Retrospect: C
+# Retrospective: Python
 
-Het feedbackproces in deze cursus gaat over de kwaliteit van de ingeleverde code. Dit proces bestaat uit een heel aantal stappen, waarmee je kunt leren begrijpen wat deze kwaliteit precies inhoudt, wat voor invloed je er op hebt en hoe je deze zelf kunt beoordelen.
+> Warning: the retrospective is linked to the formal **feedback** that you receive from the staff. Wait until feedback is published (it may take a while!) and then complete the retrospective below.
+{:.bg-warning}
 
-1. je schrijft je programma's, nog niet altijd met goede kwaliteit, want je bent gefocust op het oplossen van het probleem
-2. je verbetert na het oplossen alvast je code voor zover je zelf weet hoe en hoe je het wil hebben
-3. je doet een code review waarbij je input van iemand anders krijgt, die met een frisse blik probeert jouw code te begrijpen
-4. je levert je definitieve versies in
-5. je mentor kijkt je opdracht na, bepaalt het aantal punten en geeft je wat feedback
-6. je denkt na over wat de feedback betekent en wat je er "voor de toekomst" mee kan
+The feedback cycle during this course is all about the **quality** of the code that you write. The process comprises quite a number of steps that should help you understand what this quality is exactly, what you can do to influence quality and how you can assess quality in code that you or someone else wrote. Here's an overview of the process:
 
-Dit formulier is de laatste stap voor elke ronde. Na afronding van alle stappen worden je punten voor de module officieel toegekend.
+1. You are solving problems, writing programs, not always in good style, because you're totally focussed on problem solving.
+2. When you're finished, it's likely that you want to improve your own code because you're already aware of some ideas to make code better.
+3. You do code reviews with a partner, who can take a fresh view of your code, not knowing about how you wanted to write it and why.
+4. You revise on your own code once more and submit the final versions for assessment by the course staff.
+5. Your mentor assesses your submitted programs, finds how many points to award, and provides a few points of feedback on quality.
+6. **And finally, where you are now:** you consider the feedback, compare it to your own ideas about your program and think about how you can use your considerations to improve your code in the future.
 
-
-## Deze module
-
-Bij deze module heb je je code gereviewed herzien op een aantal aspecten:
-
-- [Comments](/quality/comments)
-- [Naming](/quality/naming)
-- [Indenting code](/quality/indentation)
-- [Whitespace](/quality/whitespace)
-
-Je mentor heeft je uitwerkingen nu van feedback voorzien, die je kunt vinden op de [Voortgangs](/submissions)-pagina.
+The form below is your task for this final step in the current review cycle. After completing the steps your points will be officially awarded.
 
 
-## Vraag 1
+## Aspects
 
-Wat zijn verschillen of juist overeenkomsten tussen de feedback van je mentor en de aanpassingen die je zelf hebt gedaan na je peer review?
+For this module you reviewed your code using the following aspects:
+
+- Style: can someone easily read your code and infer the underlying structure?
+	- Is your choice of indentation etc. applied consistently?
+	- Are your comments well-written and appropriately placed?
+	- (and everything you learned previously)
+- Design: is your solution well thought-out and elegant?
+	- Does the code make good use of everything the language has to offer?
+	- Are parts of the code as simple as possible?
+	- Is the whole of the code as simple as possible? (trade-off!)
+	- (you previously learned about things to keep an eye on, such as excessive nesting)
+
+Your mentor has provided you with feedback---you can find it on the [Submissions](/submissions) page.
+
+
+## Question 1
+
+What are differences (or similarities!) between the feedback from your mentor and the things that you focused on when revising your code before submitting the final versions?
 
 <textarea name="form[q1]" rows="4"></textarea>
 
 
-## Vraag 2
+## Question 2
 
-Wat heb je geleerd over "goede code" van het feedbackproces bij deze module?
+What did you learn about writing "good code" during this module's feedback cycle? You may have learned by doing research, from the partner who reviewed your code, and from your mentor's feedback.
 
 <textarea name="form[q2]" rows="4"></textarea>
 
 
-## Vraag 3
+## Question 3
 
-Welke actie, indien van toepassing, zou je willen ondernemen bij de volgende module, naar aanleiding van het feedbackproces tot nu toe?
+What would you like to improve for the programs in the next module, given what you have learned during current and earlier feedback cycles?
 
 <textarea name="form[q3]" rows="4"></textarea>
 
 
-## Vraag 4
+## Question 4
 
-Wat, indien van toepassing, is niet helemaal duidelijk aan de feedback die je van je mentor hebt gehad?
+If anything, what isn't completely clear from the feedback that your mentor provided on your submitted programs? Your mentor will be able to read your answer.
 
 <textarea name="form[q4]" rows="4"></textarea>
