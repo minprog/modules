@@ -1,4 +1,4 @@
-name: module 5
+name: mispellings
 files:
     required:
         - dictionary.c
