@@ -15,7 +15,6 @@ Hou altijd de regels over samenwerken in gedachten en hou je aan de algemene aan
 Voor informatie en hulp met deze module:
 
 1. Woon je werkgroep bij en vraag je medestudenten en mentor om mee te denken.
-1. Gebruik `help50`, `printf` en `debug50`.
 1. Stel vragen op Ed.
 1. Dien een verzoek in voor een videogesprek met een assistent.
 1. Stuur een mail naar de coördinatoren.
