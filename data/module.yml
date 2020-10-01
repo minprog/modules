@@ -5,6 +5,6 @@ Voorbereiding:
 Opdrachten:
     Implementeer Bleep: /problems/cs50/bleep
     Implementeer Climate: /problems/climate
-Afronding:
-    Code review: /modules/data/review
-    Retrospective: /modules/data/retrospective
+    Code review: review
+Afronding (volgende week, nadat je feedback hebt gehad):
+    Retrospective: retrospective
