@@ -1,1 +1,5 @@
-Sudoku: /modules/sudoku
+Inleiding: .
+Slides: /course/resources/slides/week7.pdf
+Naar keuze:
+    Sudoku: /problems/sudoku/less
+    Sudoku (Hacker-versie): /problems/sudoku/more

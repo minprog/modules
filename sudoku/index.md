@@ -1,6 +1,6 @@
-# Data
+# Sudoku
 
-In deze module ga je aan de slag met data uit tekstbestanden. Eerst ga je oefenen met het bewerken van tekst in de censureer-opdracht Bleep, en daarna ga je inzichten verwerven over het klimaat met een databestand van de KNMI. Zo zet je de eerste stappen naar volwaardig werken met databestanden en het extraheren van informatie uit data.
+In deze module ga je een groter programma implementeren: een sudoku-solver en, als alles goed werkt, een sudoku-generator. Het belangrijkste daarbij zijn de algoritmen uit de informatica en kunstmatige intelligentie die goed van pas komen.
 
 ## Becijfering
 
