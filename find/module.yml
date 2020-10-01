@@ -2,12 +2,11 @@ Inleiding: /modules/find
 'Videocollege: Algorithms': /lectures/algorithms
 Opdrachten:
     Find: /problems/cs50/find/less
+    Functions: /exercises/functions
+    Code review: review
 Naslag:
     De belangrijkste algoritmen: /shorts/algorithms
 Extra opdracht:
     Fifteen: /problems/cs50/fifteen/less
-Afronding:
-    Code review: /modules/find/review
-    Retrospective: /modules/find/retrospective
-Oefeningen:
-    Functions: /exercises/functions
+Afronding (volgende week, nadat je feedback hebt gehad):
+    Retrospective: retrospective

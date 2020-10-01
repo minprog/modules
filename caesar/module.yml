@@ -1,15 +1,14 @@
 Inleiding: /modules/caesar
 'Videocollege: Arrays': /lectures/arrays
-Opdrachten (allebei bedoeld voor samen ontwerpen):
+Opdrachten:
     Initials: /problems/cs50/initials/more
     Caesar: /problems/cs50/caesar
+    Arrays: /exercises/arrays
+    Code review: review
 Naslag:
     Debuggen van je programma's: /shorts/debugging
     Werken met command-line arguments: /shorts/arguments
 Extra opdracht:
     Crack: /problems/cs50/crack
-Afronding:
-    Code review: /modules/caesar/review
-    Retrospective: /modules/caesar/retrospective
-Oefeningen:
-    Arrays: /exercises/arrays
+Afronding (volgende week, nadat je feedback hebt gehad):
+    Retrospective: retrospective
