@@ -14,25 +14,25 @@ In order to keep the task within reasonable limits, for each module we will prov
 
 1.  For this module, you will assess and improve your code along the following aspects. Take your time to fully read and grasp the descriptions there before you contact your partner.
 
-	- Style: can someone easily read your code and infer the underlying structure?
-		- Is your choice of indentation etc. applied consistently?
-		- Are your comments well-written and appropriately placed?
-		- (and everything you learned previously)
-	- Design: is your solution well thought-out and elegant?
-		- Does the code make good use of everything the language has to offer?
-		- Are parts of the code as simple as possible?
-		- Is the whole of the code as simple as possible? (trade-off!)
-		- (you previously learned about things to keep an eye on, such as excessive nesting)
+    - Style: can someone easily read your code and infer the underlying structure?
+        - Is your choice of indentation etc. applied consistently?
+        - Are your comments well-written and appropriately placed?
+        - (and everything you learned previously)
+    - Design: is your solution well thought-out and elegant?
+        - Does the code make good use of everything the language has to offer?
+        - Are parts of the code as simple as possible?
+        - Is the whole of the code as simple as possible? (trade-off!)
+        - (you previously learned about things to keep an eye on, such as excessive nesting)
 
-For your reference, here are all the previous code quality aspects, but now stylized in Python:
+    For your reference, here are all the previous code quality aspects, but now stylized in Python:
 
-	- [Formatting](/quality/aspects/python/formatting)
-	- [Comments](/quality/aspects/python/comments)
-	- [Naming](/quality/aspects/python/naming)
-	- [Cleanup](/quality/aspects/python/cleanup)
-	- [Nesting](/quality/aspects/python/nesting)
-	- [Loops](/quality/aspects/python/loops)
-	- [Scope](/quality/aspects/python/scope)
+    - [Formatting](/quality/aspects/python/formatting)
+    - [Comments](/quality/aspects/python/comments)
+    - [Naming](/quality/aspects/python/naming)
+    - [Cleanup](/quality/aspects/python/cleanup)
+    - [Nesting](/quality/aspects/python/nesting)
+    - [Loops](/quality/aspects/python/loops)
+    - [Scope](/quality/aspects/python/scope)
 
 2.  Before you start, don't forget to use `style50` to automatically suggest corrections for indentation and whitespace! However, `style50` is a very simple tool, so do not depend on it too much. And feel free to ignore the suggestions if you feel your code's layout is more consistent like it is.
 
