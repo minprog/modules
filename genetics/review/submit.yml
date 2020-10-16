@@ -1,5 +1,5 @@
 name: genetics
 files:
     required:
-        - bleep.py
-        - climate.ipynb
+        - dna.py
+        - virus.ipynb
