@@ -1,4 +1,4 @@
-name: module 4
+name: graphics
 files:
     required:
         - recover.c

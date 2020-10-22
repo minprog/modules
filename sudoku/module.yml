@@ -1,1 +1,8 @@
-Sudoku: /modules/sudoku
+Inleiding: .
+Slides (PDF): /course/resources/slides/week7.pdf
+Opdrachten:
+    Sudoku: /problems/sudoku/less
+    Sudoku (Hacker-versie naar keuze): /problems/sudoku/more
+    Code review: review
+Afronding (volgende week, nadat je feedback hebt gehad):
+    Retrospective: retrospective

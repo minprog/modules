@@ -1,7 +1,6 @@
-name: m6a
+name: python
 files:
     required:
         - mario.py
-        - greedy.py
-        - vigenere.py
-        - bleep.py
+        - readability.py
+        - dna.py

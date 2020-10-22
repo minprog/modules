@@ -1,0 +1,11 @@
+Inleiding: /modules/intro
+Scratch:
+  'Videocollege: Computational Thinking': /lectures/computational-thinking
+  Maak een game in Scratch: /problems/cs50/scratch
+CS50 IDE:
+  'Videocollege: C': /lectures/c
+  Maak je eigen CS50 IDE aan: /shorts/ide
+  Schrijf het programma Hello: /problems/cs50/hello
+  Schrijf het programma Water: /problems/cs50/water
+Oefeningen:
+  Variabelen: /exercises/variables

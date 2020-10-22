@@ -1,4 +1,4 @@
-name: m8a
+name: adventure
 files:
     required:
         - adventure.py

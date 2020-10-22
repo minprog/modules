@@ -1,20 +1,16 @@
 Inleiding: /modules/c
 'Videocollege: C': /lectures/c
-Eerste oefening:
-    Implementeer Hello: /problems/cs50/hello
-Werken met Linux:
-    Maak je eigen CS50 IDE aan: https://ide.cs50.io/
-    Leer over de Command Line: /shorts/command-line
+Voorbereiding:
+  Maak je eigen CS50 IDE aan: /shorts/ide
+  Schrijf het programma Hello: /problems/cs50/hello
+  Schrijf het programma Water: /problems/cs50/water
+  'Lees over de Problem Solving Steps': /steps
 Opdrachten:
-    Water: /problems/cs50/water
-    Greedy: /problems/cs50/greedy
-    Mario: /problems/cs50/mario/less
-# Extra opdrachten:
-#     Implementeer Mario (hacker): /problems/cs50/mario/more
-#     Implementeer Credit (hacker): /problems/cs50/credit
-Oefeningen:
-    Variabelen: /exercises/variables
-    Unscratch: /exercises/unscratch
-Afronding:
-    Code review: /modules/c/review
-    Retrospective: /modules/c/retrospective
+  Greedy: /problems/cs50/greedy
+  Mario: /problems/cs50/mario/less
+  Control Flow: /exercises/control-flow
+  Code review: review
+Extra opdracht:
+  Credit: /problems/cs50/credit
+Afronding (volgende week, nadat je feedback hebt gehad):
+  Retrospective: retrospective

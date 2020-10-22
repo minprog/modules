@@ -1,58 +1,21 @@
-# Module 5: Data
+# Data
 
-In this module you'll work with (large) data files, create your own simulations and practice working in a Jupyter Notebook environment. First, you'll dive into 100 years of weather data, uncoverin all kinds of statistics. Then, you'll simulate virus particles in a patient, and how these particles react to a new type of drug.  
+In deze module ga je aan de slag met data uit tekstbestanden. Eerst ga je oefenen met het bewerken van tekst in de censureer-opdracht Bleep, en daarna ga je inzichten verwerven over het klimaat met een databestand van de KNMI. Zo zet je de eerste stappen naar volwaardig werken met databestanden en het extraheren van informatie uit data.
 
+## Becijfering
 
-## Help
+De intentie is dat je alle opdrachten van de module volledig af krijgt. De beoordeling is vervolgens geheel gebaseerd op *codekwaliteit*. Alleen het afkrijgen is dus niet genoeg. Meer over dit onderwerp vind je aan het eind van de module op de pagina Code Review.
 
-For information on (or help with) this module:
+## Samenwerken
 
-1. Use `help50` (if unsure what an error message means) and `debug50` (if your code is buggy).
+Hou altijd de regels over samenwerken in gedachten en hou je aan de algemene aanwijzingen uit de studiewijzer ter voorkoming van fraude en plagiaat.
 
-2. Ask questions during office hours using the "Ask" tool on this website.
+## Hulp
 
+Voor informatie en hulp met deze module:
 
-## Grading
-
-As soon as you have submitted working solutions for all problems below, your mentor will assess your programs, assign a grade for "quality", and provide you with some written feedback. This week, your programs will be primarily graded on:
-
-- [Loops](/quality-aspects/loops)
-- [Comments](/quality-aspects/comments)
-- [Duplication](/quality-aspects/duplication)
-- [Nesting](/quality-aspects/nesting)
-
-And we'll also take these into account from previous weeks: [Magic numbers](/quality-aspects/magic-numbers), [Naming](/quality-aspects/naming) & [Whitespace](/quality-aspects/whitespace).
-
-
-## Academic Honesty
-
-Do keep in mind the course's policy on [academic honesty](/syllabus) (like plagiarism).
-
-
-## Getting Started
-
-Alright, here we go again!
-
-Log into <https://cs50.io/> and execute the below in a terminal window.
-
-    mkdir ~/workspace/pset5/
-    cd ~/workspace/pset5/
-
-In this weeks problems, we will be using jupyter notebook. In order to install jupyter in the CS50 IDE, execute the below in a terminal window.
-
-    wget https://progik.mprog.nl/course/resources/jupyter/install_jupyter.sh
-    bash install_jupyter.sh
-    rm install_jupyter.sh
-
-
-## What to Do
-
-1. Attend the lecture on Monday!
-
-2. Implement [Climate](/problems/climate)
-
-> Let op! Virus is een extra opdracht geworden, deze vind je vanaf nu onder [extra](/modules/extra)
-
-## How to Submit
-
-Instructions for submitting are included in the problem specifications as linked above.
+1. Woon je werkgroep bij en vraag je medestudenten en mentor om mee te denken.
+1. Stel vragen op Ed.
+1. Dien een verzoek in voor een videogesprek met een assistent.
+1. Stuur een mail naar de coördinatoren.
+{: start="0"}

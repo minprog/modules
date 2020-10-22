@@ -1,10 +1,10 @@
 Inleiding: /modules/python
-Videocolleges:
-'Python basics': /lectures/cs50/python-brian
-'Python versus C (optioneel)': /lectures/cs50/python-david
+'Videocollege: Python': /lectures/python-david
 Opdrachten:
-    Implementeer Sentimental: /problems/cs50/sentimental
-    Implementeer Bleep: /problems/cs50/bleep
-Afronding:
+    Implementeer Mario: /problems/cs50/py/mario
+    Implementeer Readability: /problems/cs50/readability
+    Implementeer DNA: /problems/cs50/dna
     Code review: /modules/python/review
+    Questions: questions
+Afronding:
     Retrospective: /modules/python/retrospective
