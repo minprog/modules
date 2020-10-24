@@ -1,0 +1,4 @@
+name: a-mispellings
+files:
+    required:
+        - analyse.pdf
