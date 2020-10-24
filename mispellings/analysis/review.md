@@ -30,7 +30,7 @@ Je ontwerp voor de gekozen datastructuur bestaat uit twee onderdelen.
 
 	- Heb je een hash table gekozen, dan kun je je structuur pas uittekenen als je een hash-functie hebt gekozen. Gebruik om te beginnen een simpele hash-functie, bijvoorbeeld eentje die gebaseerd is op de eerste letter van het woord.
 
-- Daarnaast moet je beschrijft hoe een "node" eruit ziet. Dit is het bouwsteentje van jouw datastructuur. Hoe meer nodes, hoe meer informatie in de structuur past. De vraag is: welke informatie staat opgeslagen in één node? Dat is een belangrijk inzicht.
+- Daarnaast moet je beschrijft hoe een "node" eruit ziet. Dit is het bouwsteentje van jouw datastructuur. Hoe meer nodes, hoe meer informatie in de structuur past. De vraag is: welke informatie staat opgeslagen in één node? Dat is een belangrijk inzicht. In het videocollege vind je al voorbeelden. Zorg dat jouw definitie van de node consistent is met de structuur die je wil bouwen.
 
 Documenteer beide delen in een PDF, lever deze in en bespreek met een assistent via Zoom.
 
