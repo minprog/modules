@@ -1,17 +1,16 @@
 Inleiding: /modules/crypto
 'Videocollege: Arrays': /lectures/arrays
-'Intro opdracht':
-    Initials: /problems/cs50/initials/less
 Opdrachten:
+    Initials: /problems/cs50/initials/less
+    "Caesar: Analyse": analysis
     Caesar: /problems/cs50/caesar
     Vigenere: /problems/cs50/vigenere
-Naslag:
+    Code review: /modules/crypto/review
+    "Oefeningen: Arrays": /exercises/arrays
+Naslag voor de implementatie:
     Debuggen van je programma's: /shorts/debugging
     Werken met command-line arguments: /shorts/arguments
 Extra opdracht:
     Crack: /problems/cs50/crack
-Afronding:
-    Code review: /modules/crypto/review
+Afronding (volgende week, nadat je feedback hebt gehad):
     Retrospective: /modules/crypto/retrospective
-Oefeningen:
-    Arrays: /exercises/arrays
