@@ -1,3 +1,5 @@
-Inleiding: .
+Inleiding: /problems/diagrammer
 Opdracht:
-    Diagrammer: /problems/diagrammer
+    Modelleren: /problems/diagrammer/modelleren
+    Inlezen en wegschrijven: /problems/diagrammer/serialisatie
+
