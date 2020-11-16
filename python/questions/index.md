@@ -1,4 +1,4 @@
-# Questions: Mispellings
+# Questions: Python
 
 > Beantwoord de volgende vragen in je eigen woorden, in Nederlands of Engels.
 
