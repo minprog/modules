@@ -3,13 +3,11 @@ Inleiding: /modules/fifteen
 Opdrachten:
     Find: /problems/cs50/find/less
     Fifteen: /problems/cs50/fifteen/less
-Naslag:
+    Code review: /modules/fifteen/review
+    Oefeningen: Functions: /exercises/functions
+Naslag voor de implementatiefase:
     De belangrijkste algoritmen: /shorts/algorithms
 Extra opdracht:
-#     Find (hacker): /problems/cs50/find/more
     Fifteen (God mode): /problems/cs50/fifteen/more
-Afronding:
-    Code review: /modules/fifteen/review
+Afronding (volgende week, nadat je feedback hebt gehad):
     Retrospective: /modules/fifteen/retrospective
-Oefeningen:
-    Functions: /exercises/functions
