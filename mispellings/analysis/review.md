@@ -1,7 +1,6 @@
 # Analyse: Mispellings
 
 > De analyse van deze opdracht kun je alleen doen, maar het is ook prima om te overleggen met een andere student.
-{:.bg-warning}
 
 Voor de opdracht "Speller" moet je zelf een datastructuur ontwerpen en deze werkend maken in C. Het komt erop neer dat je vastlegt:
 

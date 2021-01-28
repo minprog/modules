@@ -1,7 +1,6 @@
 # Retrospective: Data
 
 > Warning: the retrospective is linked to the formal **feedback** that you receive from the staff. Wait until feedback is published (it may take a while!) and then complete the retrospective below.
-{:.bg-warning}
 
 The feedback cycle during this course is all about the **quality** of the code that you write. The process comprises quite a number of steps that should help you understand what this quality is exactly, what you can do to influence quality and how you can assess quality in code that you or someone else wrote. Here's an overview of the process:
 
