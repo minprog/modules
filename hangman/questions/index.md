@@ -2,19 +2,15 @@
 
 1.  Bekijk het volgende stuk code.
 
-    ```
-    sq = Square(edge_length=3)
-    print(f"edge length={sq.edge_length}, perimeter={sq.perimeter}, area={sq.area}")
-    sq.scale(2)
-    print(f"edge length={sq.edge_length}, perimeter={sq.perimeter}, area={sq.area}")
-    ```
+        sq = Square(edge_length=3)
+        print(f"edge length={sq.edge_length}, perimeter={sq.perimeter}, area={sq.area}")
+        sq.scale(2)
+        print(f"edge length={sq.edge_length}, perimeter={sq.perimeter}, area={sq.area}")
 
     De output is als volgt.
 
-    ```
-    edge length=3, perimeter=12, area=9
-    edge length=6, perimeter=24, area=36
-    ```
+        edge length=3, perimeter=12, area=9
+        edge length=6, perimeter=24, area=36
 
     In het stukje code zitten een *class* (of eigenlijk: een initializer voor een class), een aantal *attributes*, een *method*, en een *instance*. Geef aan waar in de code die vier dingen voor komen.
 
