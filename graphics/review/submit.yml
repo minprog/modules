@@ -1,5 +1,6 @@
 name: graphics
 files:
     required:
-        - recover.c
-        - helpers.c
+        - anonymize.c
+        - censor.c
+        - censor.h
