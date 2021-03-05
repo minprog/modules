@@ -1,16 +1,16 @@
 Inleiding: /modules/graphics
 'Videocollege: Memory': /lectures/memory
 Inleidende opdracht:
-    Whodunit: /problems/cs50/whodunit
+    Whodunit: /cs50/whodunit
 Opdrachten:
-    Filter: /problems/cs50/filter/small
-    Recover: /problems/cs50/recover
+    Filter: /pcs50/filter/small
+    Recover: /cs50/recover
 Naslag:
     Werken met files: /shorts/files
     Hexadecimale notaties: /shorts/hexadecimal
     Structures: /shorts/structures
 Extra opdracht:
-    Resize: /problems/cs50/resize/more
+    Resize: /cs50/resize/more
 Afronding:
     Code review: /modules/graphics/review
     Retrospective: /modules/graphics/retrospective
