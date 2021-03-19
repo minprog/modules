@@ -13,7 +13,7 @@ Why were we able to implement a spell checker in Python using fewer lines of cod
 
 Why did the spell checker in Python likely run slower than the spell checker you wrote in C?
 
-<textarea name="form[q1a]" rows="8" required></textarea>
+<textarea name="form[q1b]" rows="8" required></textarea>
 
 
 ## 2
