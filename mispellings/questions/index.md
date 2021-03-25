@@ -1,6 +1,6 @@
 # Questions: Mispellings
 
-> Beantwoord de volgende vragen in je eigen woorden, in Nederlands of Engels.
+> Beantwoord de volgende vragen in je eigen woorden, in Nederlands of Engels. Doe dit **na** het maken van de opdrachten!
 
 ## 1
 
