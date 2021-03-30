@@ -3,3 +3,5 @@ files:
     required:
         - adventure.py
         - room.py
+        - item.py
+        - loader.py
